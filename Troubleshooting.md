@@ -21,4 +21,7 @@
 ### Scenario 5: The user did something, and the browser's homepage suddenly changed
 
 
+### Scenario 6: The printer seems to be on, but no printing can be done
+
+
 
