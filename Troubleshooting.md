@@ -15,7 +15,10 @@
 > This is a screenshot of the Task Manager, showing 100% of disk usage under Windows 10. WHat can the cause be, and can it be found
 
 
+### Scenario 4: You have just installed a new hardware or software, but it is working incorrectly
 
+
+### Scenario 5: The user did something, and the browser's homepage suddenly changed
 
 
 
